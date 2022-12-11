@@ -1,6 +1,6 @@
 <p><a href="https://sumaoc.com" target="_blank" rel="noopener"><img src="https://s2.loli.net/2022/12/05/UKd6yS1CArqka2O.png" width="100%" height="100%" border="0" /></a></p>
 
-# TikTok
+# TikTok IOS
 
 <p>对应自己手机版本和型号安装TrollStore</p>
 <table style="border-collapse: collapse; width: 100%; height: 110px;" border="1">
