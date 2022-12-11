@@ -8,7 +8,7 @@
 <tr style="height: 22px;">
 <td style="width: 33.3333%; height: 22px;"><span style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px; font-weight: 600; text-align: center;">版本/ 型号</span></td>
 <td style="width: 33.3333%; height: 22px;"><span style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px; font-weight: 600; text-align: center;">A8 - A11</span></td>
-<td style="width: 33.3333%; height: 22px;"><span style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px; font-weight: 600; text-align: center;">A12 - A15, M1</span></td>
+<td style="width: 33.3333%; height: 22px;"><span style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px; font-weight: 600; text-align: center;">A12 - A15</span></td>
 </tr>
 <tr style="height: 22px;">
 <td style="width: 33.3333%; height: 22px;"><span style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px;">14.0 - 14.8.1</span></td>
