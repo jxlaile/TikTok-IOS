@@ -32,7 +32,6 @@
 </tr>
 </tbody>
 </table>
-<hr style="height: 1px; border: none; border-top: 1px solid #F8F8FF;" />
 
 A8：iPhone6、6Plus
 
