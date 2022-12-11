@@ -2,7 +2,7 @@
 
 # TikTok IOS
 
-<p>对应自己手机版本和型号安装TrollStore</p>
+<p>对应手机版本和型号安装TrollStore</p>
 <table style="border-collapse: collapse; width: 100%; height: 110px;" border="1">
 <tbody>
 <tr style="height: 22px;">
