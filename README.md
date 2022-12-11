@@ -26,8 +26,15 @@
 <td style="width: 33.3333%; height: 22px;"><a href="https://api.jailbreaks.app/troll"><span style="color: #3598db;">安装TrollStore</span></a></td>
 </tr>
 <tr style="height: 22px;">
-  
-  A8：iPhone6、6Plus
+<td style="width: 33.3333%; height: 22px;"><span style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px;">15.6 beta 1 - 5</span></td>
+<td style="width: 33.3333%; height: 22px;">&nbsp;</td>
+<td style="width: 33.3333%; height: 22px;"><a href="https://api.jailbreaks.app/troll64e"><span style="color: #3598db;">安装TrollStore</span></a></td>
+</tr>
+</tbody>
+</table>
+<hr style="height: 1px; border: none; border-top: 1px solid #F8F8FF;" />
+
+A8：iPhone6、6Plus
 
 A9：iPhone 6s、 6s plus、iPhone SE
 
@@ -42,10 +49,3 @@ A13：iphone11、11 Pro、11 Pro Max
 A14：Iphone 12、12 Pro、12 Pro Max、12 mini
 
 A15：iPhone 13
-<td style="width: 33.3333%; height: 22px;"><span style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px;">15.6 beta 1 - 5</span></td>
-<td style="width: 33.3333%; height: 22px;">&nbsp;</td>
-<td style="width: 33.3333%; height: 22px;"><a href="https://api.jailbreaks.app/troll64e"><span style="color: #3598db;">安装TrollStore</span></a></td>
-</tr>
-</tbody>
-</table>
-<hr style="height: 1px; border: none; border-top: 1px solid #F8F8FF;" />
