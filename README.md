@@ -1,4 +1,4 @@
-<p><a href="https://sumaoc.com" target="_blank" rel="noopener"><img src="https://s2.loli.net/2022/12/05/UKd6yS1CArqka2O.png" width="100%" height="100%" border="0" /></a></p>
+<p><a href="" target="_blank" rel="noopener"><img src="" width="100%" height="100%" border="0" /></a></p>
 
 # TikTok IOS
 
